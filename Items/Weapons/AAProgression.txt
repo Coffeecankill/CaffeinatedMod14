@@ -1,0 +1,99 @@
+>Pre Boss:		24
+Pheromones 		(Accessory)
+Item Vacuum 		(Accessory)
+Painsaw			(Melee/tool)
+Pistol Crossbow		(Ranged)
+Candlestick		(Melee)
+Postal Pummler 		(Melee)
+Blubber 		(Accessory)
+Pot Belly Stove		(Accessory)
+Lego Brick 1		(Accessory)
+Mushroom Buddy		(Accessory)
+Flamespitter 		(Ranged)
+Pneumatic Popper 	(Ranged)
+Blackjack Flaregun 	(Ranged)
+DinoLaser		(Magic)
+Laser Carbine		(Magic)
+Caulk N Burn 		(Ranged)
+Oscillator 		(Ranged)
+Giftbones *Seasonal	(Ranged)
+Bonded Soul 		(Accessory)
+Research Camera 	(Accessory)
+Stinky Cheese 		(Accessory)
+Speed Crystals 		(Accessory)
+Kindlegem		(Accessory)
+Rainbow Stone		(Accessory)
+Nord Greatsword		(Melee)
+
+EoW/BoC - Meteor:	14
+Homemade Rifles		(Ranged)
+Feltrite Rifle		(Magic)
+Heavy Caliber		(Accessory)
+Nailer			(Melee Pistol)
+Vlad The Impaler	(Melee Shotgun)
+Combat Pickaxe 		(Melee/tool)
+Auto Shotty 		(Ranged)
+Grenade Launchers x3 	(Ranged)
+Madeline 		(Ranged)
+Smart Pistol		(Ranged)
+Blutsauger 		(Ranged)
+Panic Attack		(Ranged)
+Volcano Fragment 	(Melee)
+Pulse Cannon		(Magic)
+
+Post Skeletron:		5
+Flare Revolver 		(Ranged)
+Super Soaker		(Ranged)
+Supercharger 		(Accessory)
+Cask of Brew 		(Accessory)
+Bic Lighter 		(Melee)
+
+>Early Hardmode:	17
+Plasma Rifles x2 	(Magic)
+Combat Pick Mk2		(Melee/Tool)
+Carbine 		(Ranged)
+Volley Gun		(Ranged)
+Minelayer		(Ranged)
+Mag Charger		(Magic)
+Putrifier		(Ranged)
+Great Knife 		(Melee)
+Vlad 1k			(Melee Shotgun)
+Lego Brick 2		(Accessory)
+Chembow 		(Ranged)
+Tootba			(Ranged)
+MP40 			(Ranged)
+Maribelle 		(Ranged)
+L-Star 			(Magic)
+Spoon			(Melee)
+Toothbrush		(Melee)
+WumpaFruit		(Accessory)
+
+mid/post Mech: 		6
+Perfortator		(Ranged)
+Railway Rifle 		(Ranged)
+-
+Raygun 			(Magic)
+Q3 Nailgun		(Melee Shotgun)
+Plasma Pack		(Magic)
+Thompson 		(Ranged)
+
+Post Plantera:		2
+AER9			(Magic)
+Tri-Beam		(Magic)
+
+Post Golem: 		1
+Reaper 			(Magic)
+
+Cultist/Pillars:	3
+M6D Pistol		(Ranged)
+Lasgun			(Magic)
+Large Marge		(Summon)
+
+Post Moonlord: 		2
+AR2 			(Magic)
+Bolter			(Ranged)
+
+Total
+Melee			14
+Ranged			29
+Magic			14

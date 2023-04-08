@@ -1,0 +1,59 @@
+0.1: Released
+
+0.1.1: Fixed an error when placing the machine, added tube of glowsticks
+
+0.1.5: Added the MK. II machine along with it's items
+
+0.1.6: adjusted prices, gave the Mk. II a 20% discount on all items
+
+0.1.6.2: added homepage
+
+0.1.6.5: added the 'Blackjack Flaregun', added in 'Can of Bait', fixed mana potion giving the potion sickness debuff, changed around item rarities
+
+0.1.7: added Mk. III machine along with it's items, reduced mana potion prices drastically, adjusted item rarities, added discount text to the machines, added the 'Homemade Rifle'
+
+0.1.8: adjusted item descriptions, Homemade Rifle requires a bit more to craft, added 'Glitterglow', added 'Jazzy Radios', added 'Item Vacuum'
+
+0.1.8.1: further adjusted item descriptions
+
+0.1.8.5: Added in 'Mysterious Mailbox', added in Pallets of Snow, Stone, Dirt and Sand and their corresponding 'invoices', added in 'Package of Silt', adjusted the homemade rifle to fit with vanilla progression, adjusted bullet 'origin' on the homemade rifle to better work in close range
+
+0.1.9: Added in 'Stamped Letter', L-Star Frost, Oscillator, and Vision Ward.
+
+0.2: Added packages for mailbox goodies, Caulk n Burn, Auto Shotgun, and Frag Launcher
+
+0.2.5: adjusted many of the mod recipes (such as obtaining a piggybank, illegal weapon parts, seeds, more items for sale), formatted some descriptions (wip) (note that vending machines only accept exact change)
+
+0.2.5.1-2: Letters and vending machines now stack (up to 30, up from 1), added Plasma Rifle and Brute Plasma Rifle and their respective invoices, made the can of worms sprite less fugly
+
+0.2.5.3: Added Madeline, Pneumatic Popper, Quest letters, changed plasma rifles acquisition to be bought at a Mk.III vender
+
+0.2.5.4-5: updated Madeline's Sprite, uploaded the mod onto GitHub, added a mod Icon
+
+0.2.5.6: Madeline costs 40 -> 25 gold, one of the Stamped Letter recipes no longer requires a blood zombie banner; now takes pumpkins, lost weapon parts invoice is now in Vending Machine Mk.II, added Maribelle, seed pouch now costs 20 -> 15 copper coins, Pneumatic Popper now takes 20 -> 15 iron/lead, Bundle of Arrows available in Mk. I Vender,  one of the Stamped Letter recipes no longer requires jungle spores; now takes Illegal Weapon Parts, glitterglow no longer takes coral to craft and now grants 15 blocks, Quest letters now cost 20 copper instead of 20 silver, added a letter recipe for Tinkerer's Workshop, Halloween and Xmas letters no longer require stamped letters
+
+0.2.5.7: Fixed an issue where the mod would not download from the browser
+
+0.2.5.8: Cleaned up descriptions for the stamped letter sub recipes, fixed the base of an interdimensional tool to look less floaty, Mailbox no longer deposits ghost packages if right clicked with an empty slot, Tinkerer's workshop letter no longer requires a stamped letter; also changed the name to 'Tinkerer's Invoice', changed one of the invoices to only require 2 frost cores; rather than requiring a buildpath, changed the interdimsional shotgun's damage to 17 -> 24 damage per pellet to compensate for the slow firing speed, Quest letters now added for the DPS meter, lifeform analyzer and stopwatch; Cellphone is now completely obtainable without NPCs, added 3 more invoices for the stamped letter (4 new weapons and 1 new accessory), added the pistol crossbow, added the combat pickaxe, added the Cask of Brew Accessory, added the Bonded Soul Accessory, added the Strange Crystals Accessory, added the Magical Supercharger Accessory
+
+0.2.5.9: Tmod didn't allow this version to exist
+
+0.2.6.0: Fixed a glitch with the lost weapons invoice not giving a package, adjusted a interdimensional weapon's positioning in the player's hands, fixed a few more descriptions, added Glowing Mushroom Buddy Accessory, Bonded Soul no longer decreases max mana; now has larger damage penalty (but still gives you more minion damage overall)
+
+0.2.6.1: Now the mailbox (faintly) and the vending machines glow in the dark, adjusted glitter glow's light to more accurately fit the block, adjusted a invoice tool's glow, crafting pallets should now take any wood instead of just standard wood, Mann Co Invoice price at the Mk. II vending machine is now 120 -> 99 Plat/gold, Madeline and Maribelle now have a bit more crit chance, added vaccuum invoice to the Mk. II vending machine; removed the item vacuum from the goblin's buy inventory, added Value to the Glowing Mushroom Buddy for selling/reforging, Glowing Mushroom Buddy now takes 2 less mushroom grass seeds, one of the invoices now takes 10 Jungle Spores rather than 15 musket balls, Pistol Crossbow now costs 50 silver -> 1 gold, Combat pickaxe now costs 1 gold -> 2 gold, added 2 new invoices/weapons, early hardmode invoices bought at the Mk. III vending machine now cost 25 -> 15 gold
+
+0.2.6.2: The Pneumatic Popper now allows collection of seeds from tall grass/plants, updated the Pneumatic Popper's sprite, removed the seed pouch from the vending machines, buff furniture will no longer flash 0s on the buff icon, added 4 new weapons and 2 new invoices, added the Blubber Accessory, added safe letter, added bug net letter, Cask of Brew now appears on the character's back
+
+0.2.6.3: Added the Laundry Machine, added the Refrigerator, added glitterglow lamp and candle, added the Tele-Phone, updated the Pneumatic popper to require less iron/lead and more copper/tin, updated palette sprites to have a rope texture rather than black lines, Pneumatic Poppers should collect seeds now from jungle, corrupt and crimson grass/plants
+
+0.2.6.4: added the Cursed Tele-Phone
+
+0.2.6.5: Fixed the Mysterious Mailbox not working in Multiplayer (thanks jopojelly!), bonded soul does -45% -> -60% minion damage (the item overall is still very much a net positive in minion damage), made the rope texture thiccer on pallets
+
+0.2.6.7: Lots of balance changes, including; making almost all invoices craft from a Stamped Letter, Made the Pneumatic popper less ugly, Moved the combat pick and pistol crossbow to the MK. II Vending machine and buffed them. Magical supercharger is now: +40% magic damage, -100 max mana. Bonded soul: +3 minions and -33% damage. Blubber: +50 hp and -15% movespeed. A few Item invoices for NPC items are now craftable at the table instead of by hand.
+
+0.2.6.8: Added a copper/tin recipe group, copper/tin added to recipes for crafting appliances (electronics) & in turn they cost less iron/lead now
+
+0.2.6.9: reworked quest complete sprites, reworked Madeline's sprite and description into a 4ga Shotgun (stats unchanged), cask of brew accessory can be placed like furniture, merchant no longer sells bulk material invoices & now they're available at the mailbox
+
+0.2.7.0: Ported to TMod 1.4 by Tomat, Added Mk1 Vending Machines to worldgen (now they can appear in underground cabins!), removed lava nailguns due to being redundant, removed the parallel path challenge items due to new 1.4 progression, reduced sound volume on some of the weapons, reduced some recipe costs for item quests, fixed item descriptions

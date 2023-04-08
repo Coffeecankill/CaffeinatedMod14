@@ -1,0 +1,4 @@
+displayName = Caffeinated Mod
+author = Coffee009
+version = 1.0.5
+homepage = https://forums.terraria.org/index.php?threads/caffeinated-mod.84363/
